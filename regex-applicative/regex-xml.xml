@@ -1,0 +1,9 @@
+<h:table xmlns:h="http://www.w3.org/TR/html4/">
+
+    <h1:td>textBody1</h1:td> 
+
+    <h2:td>textBody1</h2:td> 
+
+    samleText
+
+</h:table>
